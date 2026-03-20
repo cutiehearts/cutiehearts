@@ -1,5 +1,5 @@
 [![Layout.jpg](https://i.postimg.cc/G2nWbWsb/Layout.jpg)](https://postimg.cc/gw4SDBD7)
- # $\color{pink}{\/ᐠ˵- ⩊ -˵マ}$
+ # $\color{lightblue}{\/ᐠ˵- ⩊ -˵マ}$
 <!--
 **cutiehearts/cutiehearts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
